@@ -1,0 +1,39 @@
+body{
+    max-width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 26px;
+    margin-top: 20px;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    font-family: "Outfit",serif;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    
+}
+
+.main-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 26px;
+    margin-right: 26px;
+    padding-left: 15px;
+}
+
+p{
+    font-size: 15px;
+    margin: 0 26px 26px 26px;
+    text-align: center;
+}
+
